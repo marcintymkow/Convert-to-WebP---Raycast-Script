@@ -105,5 +105,5 @@ MIT
 
 ## Author
 
-Created with Claude for Raycast.
+Marcin Tymków
 
